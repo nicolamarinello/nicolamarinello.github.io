@@ -1,3 +1,5 @@
 theme: pages-themes/minimal@v0.2.0
 title: Nicola's homepage
 description: Nicola's news page
+plugins:
+- jekyll-remote-theme
