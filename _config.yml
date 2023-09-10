@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Nicola's homepage
-description: Nicola's news page
+title: Nicola Marinello
+description: Résumé and news 
 plugins:
 - jekyll-remote-theme
