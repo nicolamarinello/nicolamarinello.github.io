@@ -22,6 +22,8 @@ layout: default
 ***Erasmus***<br>
 ***University of Oslo, Norway***
 
+* * *
+
 ## Research
 ***TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM***<br>
 Marinello, Nicola and Proesmans, Marc and Van Gool, Luc<br>
