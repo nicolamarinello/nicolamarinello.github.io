@@ -14,7 +14,7 @@ layout: default
 
 * Thesis title: Convolutional Neural Network Single-Telescope Reconstruction for the Large Size Telescope of CTA. <http://tesi.cab.unipd.it/62669/>
 
-***B.Sc. in Telecommunication Engineering***<br>
+***B.Sc. in Information Engineering***<br>
 ***University of Padova***
 
 * Thesis title: Denial of Service attacks over the TOR network.
