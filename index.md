@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Résumé
+## Résumé
 
 ***PhD candidate in Computer Vision***<br>
 ***KU Leuven, Belgium***
@@ -22,7 +22,7 @@ layout: default
 ***Erasmus***<br>
 ***University of Oslo, Norway***
 
-### Research
+## Research
 ***TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM***<br>
 Marinello, Nicola and Proesmans, Marc and Van Gool, Luc<br>
 [paper](https://arxiv.org/abs/2210.16204)
