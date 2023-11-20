@@ -31,7 +31,7 @@ layout: default
 ## Research portfolio
 ***TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM***<br>
 Nicola Marinello, Marc Proesmans, Luc Van Gool<br>
-[paper](https://arxiv.org/abs/2210.16204)
+[paper](https://arxiv.org/abs/2210.16204) CVPRW 2022
 
 ```
 @InProceedings{Marinello_2022_CVPR,
@@ -46,7 +46,7 @@ Nicola Marinello, Marc Proesmans, Luc Van Gool<br>
 
 ***Contrastive Learning for Multi-Object Tracking with Transformers***
 <br>Pierre François De Plaen\*, Nicola Marinello\*, Marc Proesmans, Tinne Tuytelaars, Luc Van Gool<br>
-[paper](http://arxiv.org/abs/2311.08043)
+[paper](http://arxiv.org/abs/2311.08043) WACV 2024
 
 ```
 @misc{deplaen2023contrastive,
