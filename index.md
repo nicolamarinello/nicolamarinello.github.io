@@ -32,7 +32,7 @@ layout: default
 ***TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM***<br>
 Nicola Marinello, Marc Proesmans, Luc Van Gool<br>
 
-![Book logo](/nicolamarinello.github.io/assets/img/teaser_kitti.gif)
+![Teaser KITTI](nicolamarinello.github.io/assets/img/teaser_kitti.gif)
 
 [paper](https://arxiv.org/abs/2210.16204) CVPRW 2022
 
