@@ -45,7 +45,7 @@ Nicola Marinello, Marc Proesmans, Luc Van Gool<br>
 ```
 
 ***Contrastive Learning for Multi-Object Tracking with Transformers***
-<br>Pierre François De Plaen*, Nicola Marinello*, Marc Proesmans, Tinne Tuytelaars, Luc Van Gool<br>
+<br>Pierre François De Plaen\*, Nicola Marinello\*, Marc Proesmans, Tinne Tuytelaars, Luc Van Gool<br>
 [paper](http://arxiv.org/abs/2311.08043)
 
 ```
