@@ -33,6 +33,7 @@ layout: default
 Nicola Marinello, Marc Proesmans, Luc Van Gool<br>
 
 ![Teaser KITTI](assets/img/teaser_kitti.gif)
+![Teaser nuScenes](assets/img/teaser_nusc.gif)
 
 [paper](https://arxiv.org/abs/2210.16204) CVPRW 2022
 
