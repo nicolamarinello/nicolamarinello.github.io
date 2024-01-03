@@ -57,13 +57,13 @@ Nicola Marinello, Marc Proesmans, Luc Van Gool<br>
 [paper](http://arxiv.org/abs/2311.08043) WACV 2024
 
 ```
-@misc{deplaen2023contrastive,
-      title={Contrastive Learning for Multi-Object Tracking with Transformers}, 
-      author={Pierre-François De Plaen and Nicola Marinello and Marc Proesmans and Tinne Tuytelaars and Luc Van Gool},
-      year={2023},
-      eprint={2311.08043},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{De_Plaen_2024_WACV,
+    author    = {De Plaen, Pierre-Fran\c{c}ois and Marinello, Nicola and Proesmans, Marc and Tuytelaars, Tinne and Van Gool, Luc},
+    title     = {Contrastive Learning for Multi-Object Tracking With Transformers},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {6867-6877}
 }
 ```
 
