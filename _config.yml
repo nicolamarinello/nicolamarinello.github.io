@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Nicola Marinello
-description: Nicola's resume
+description: Nicola's research portfolio
 plugins:
 - jekyll-remote-theme
