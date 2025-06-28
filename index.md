@@ -68,7 +68,7 @@ Nicola Marinello, Marc Proesmans, Luc Van Gool<br>
 ```
 
 ***Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes***
-<br>Nicola Marinello, Simen Cassiman, Jonas Heylen, Marc Proesmans, Luc Van Gool><br>
+<br>Nicola Marinello, Simen Cassiman, Jonas Heylen, Marc Proesmans, Luc Van Gool<br>
 
 ![Teaser 0ac05652a4c44374998be876ba5cd6fd.gif](assets/img/0ac05652a4c44374998be876ba5cd6fd.gif)
 ![Teaser 952cb0bcd89b4ca4b904cdcbbf595523.gif](assets/img/952cb0bcd89b4ca4b904cdcbbf595523.gif)
